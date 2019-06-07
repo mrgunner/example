@@ -1,3 +1,4 @@
 # Introduction to git
 An example of contributing code to a public github repository.
-test
+
+## Overview - How does collaboration work?
